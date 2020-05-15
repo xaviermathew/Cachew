@@ -4,7 +4,7 @@
 
 # Documentation:
 ```python
->>> help(http_bin_service)
+>>> help(Cachew)
 ```
 
 
